@@ -1,6 +1,6 @@
 # hello-world
-first steps intro
-new to Github and nearly new to coding, have not done any code in 205 years, so please be patient.
+first steps intro       
+new to Github and nearly new to coding, have not done any code in 25 years, so please be patient.
 got in here, because i have some probs with the python install in my Linux, and i want to understand the probs to solve them.
 so i thought GitHub might be a good place to start learning what i already have forgotten, and may be recover some old knowledge.
 please have patience, i am an old guy(nearly 60) and learn slowly. thx
